@@ -5,3 +5,5 @@ gradio
 pydub
 sounddevice
 scipy
+streamlit
+tempfile
