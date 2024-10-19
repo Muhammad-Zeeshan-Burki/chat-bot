@@ -1,3 +1,7 @@
-streamlit
-transformers
-torch
+whisper
+groq
+gtts
+gradio
+pydub
+sounddevice
+scipy
