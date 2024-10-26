@@ -2,8 +2,6 @@ whisper
 groq
 gtts
 gradio
-pydub
-sounddevice
 scipy
 streamlit
 tempfile
